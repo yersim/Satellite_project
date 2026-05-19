@@ -8,3 +8,7 @@ Samples:
     - Gastric: 31
     - Duodenum: 14
     - Stool: 44
+
+Published as preprint: https://doi.org/10.1101/2025.11.11.687814
+
+Published in Gut Microbes: https://doi.org/10.1080/19490976.2026.2653550
