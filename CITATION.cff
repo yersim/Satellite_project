@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Satellite project: scripts and code"
+authors:
+  - family-names: Yersin
+    given-names: Simon
+    orcid: "https://orcid.org/0000-0002-4694-2234"
+preferred-citation:
+  type: article
+  title: "Strain-level translocation and enrichment dynamics of oral bacteria in the lower gastrointestinal tract of stunted children"
+  authors:
+    - family-names: Yersin
+      given-names: Simon
+  journal: "Gut Microbes"
+  volume: 18
+  doi: "10.1080/19490976.2026.2653550"
+  year: 2026
